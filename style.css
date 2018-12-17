@@ -27,4 +27,16 @@ font-size: 12px;
 text-decoration: underline;
 }
 
+#intro {
+border-style: solid;
+border-width: 1px;
+border-color: #000000;
+}
 
+.spotlight{
+background-color: #FEFE22;
+}
+
+h2,p{
+color: #008000;
+}
